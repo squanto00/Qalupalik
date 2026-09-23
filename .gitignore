@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# GPT-2 downloaded model weights
+models/
+
+# Training outputs
+checkpoints/
+runs/
+logs/
+outputs/
+
+# OS/editor junk
+.DS_Store
+*.swp
