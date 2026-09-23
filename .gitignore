@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+*-venv/
 
 # GPT-2 downloaded model weights
 models/
